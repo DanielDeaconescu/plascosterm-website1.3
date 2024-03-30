@@ -453,6 +453,10 @@ html {
   color: inherit;
 }
 
+.custom-card-services {
+  height: 620px;
+}
+
 @media (max-width: 430px) {
   .carousel-item-custom p {
     font-size: 16px !important;
